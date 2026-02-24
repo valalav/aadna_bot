@@ -39,6 +39,19 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ## 🔍 Geneаlogy Sources
 
+### aadna.ru
+**Официальный сайт** Адыго-Абхазского ДНК-проекта.
+
+- **Основной сайт:** https://aadna.ru
+- **Гаплогруппы:** https://aadna.ru/haplogroups/
+- **Фамилии:** https://aadna.ru/family/
+- **100 геномов:** https://aadna.ru/proekt-100-genomov-rezultaty/
+
+**Примеры страниц фамилий:**
+- https://aadna.ru/tarba_kaliak/ — Тарба (абхаз)
+- https://aadna.ru/hevsokov/ — Хевсоков (бесленеевец)
+- https://aadna.ru/nagoev_karagach/ — Нагоев (кабардинец)
+
 ### zolka.ru
 **Основной источник** по генеалогии адыгов (кабардинцев).
 
