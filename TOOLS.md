@@ -37,4 +37,18 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
+## 🔍 Geneаlogy Sources
+
+### zolka.ru
+**Основной источник** по генеалогии адыгов (кабардинцев).
+
+- **Генеалогия:** https://zolka.ru/geneo/
+- **Зольчане:** https://zolka.ru/zolchane/
+- **Жертвы репрессий:** https://zolka.ru/zhertvi/
+- **Ветераны ВОВ:** https://zolka.ru/veterany/
+- **Архивные документы:** https://zolka.ru/arhdoc/
+- **Книги:** https://zolka.ru/book/
+
+---
+
 Add whatever helps you do your job. This is your cheat sheet.
