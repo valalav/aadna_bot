@@ -34,7 +34,8 @@
 - **Журнал:** Quaternary Science Reviews (2019)
 - **Авторы:** Antonosyan, FV Seersholm, AC Grealy et al.
 - **Ссылка:** https://www.sciencedirect.com/science/article/pii/S0277379119300861
-- **Статус:** ⏳ Не обработано
+- **Примечание:** ⚠️ Фауна (животные), НЕ люди
+- **Статус:** ⏸️ Не относится к генетике человека
 
 ### 6. The Caucasus as an asymmetric semipermeable barrier to ancient human migrations
 - **Журнал:** Molecular Biology & Evolution (2012)
@@ -62,8 +63,10 @@
 
 ### 9. Genetics and population history of Caucasus populations
 - **Журнал:** Human Biology (2003)
-- **Авторы:** KB Bulaeva, LB Jorde, C Ostler, S Watkins et al.
-- **Статус:** 🔄 Искать далее
+- **Авторы:** Bulayeva K, Jorde LB, Ostler C, Watkins S et al.
+- **Ссылка:** https://doi.org/10.1353/hub.2004.0003
+- **Аннотация:** мтДНК и Alu-инсерции в популяциях Дагестана. Генетический дрифт в горных популяциях.
+- **Статус:** ✅ Обработано
 
 ---
 
